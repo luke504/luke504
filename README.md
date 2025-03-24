@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi, my name is Luca, I'm a middle full stack developer, <brpassionate about technology and programming. Follow me here on GitHub to discover my projects.
-
+Hi, I'm Luca, a passionate full-stack developer with a strong focus on technology and programming. Follow me on GitHub to explore my projects!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@__iamluke_it__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luca-cavallaro-677630215) 

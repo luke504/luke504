@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a middle full stack developer.<br>Hi, my name is Luca, a junior backend developer passionate about technology and programming. Follow me here on GitHub to discover my projects.
+Hi, my name is Luca, I'm a middle full stack developer, <brpassionate about technology and programming. Follow me here on GitHub to discover my projects.
 
 
 ## 🌐 Socials:

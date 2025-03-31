@@ -1,6 +1,6 @@
 # 💫 About Me:
-🇬🇧 Hi, I'm Luca, a passionate full-stack developer with a strong focus on technology and programming. Follow me on GitHub to explore my projects!
-🇮🇹 Ciao, sono Luca, un appassionato sviluppatore full-stack con una forte attenzione alla tecnologia e alla programmazione. Seguitemi su GitHub per esplorare i miei progetti!
+🇬🇧 Hi, I'm Luca, a passionate full-stack developer with a strong focus on technology and programming. Follow me on GitHub to explore my projects! <br />
+🇮🇹 Ciao, sono Luca, un appassionato sviluppatore full-stack con una forte attenzione alla tecnologia e alla programmazione. Seguitemi su GitHub per esplorare i miei progetti! <br />
 🇪🇸 Hola, soy Luca, un apasionado desarrollador full-stack con un fuerte enfoque en la tecnología y la programación. ¡Sígueme en GitHub para explorar mis proyectos!
 
 ## 🌐 Socials:

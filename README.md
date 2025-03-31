@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi, I'm Luca, a passionate full-stack developer with a strong focus on technology and programming. Follow me on GitHub to explore my projects!
+🇬🇧 Hi, I'm Luca, a passionate full-stack developer with a strong focus on technology and programming. Follow me on GitHub to explore my projects!
+🇮🇹 Ciao, sono Luca, un appassionato sviluppatore full-stack con una forte attenzione alla tecnologia e alla programmazione. Seguitemi su GitHub per esplorare i miei progetti!
+🇪🇸 Hola, soy Luca, un apasionado desarrollador full-stack con un fuerte enfoque en la tecnología y la programación. ¡Sígueme en GitHub para explorar mis proyectos!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__iamluke_it__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luca-cavallaro-677630215) 

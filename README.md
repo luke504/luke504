@@ -184,20 +184,5 @@ Sito per attività turistica sull'Etna con prenotazioni online, galleria e gesti
 [![Email](https://img.shields.io/badge/Email-Scrivimi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucacavallaro.itdeveloper@gmail.com)
 
 ---
-
-## 🧭 Naviga il sito / Site Navigation
-
-[🏠 Home](https://lucacavallaro.it) · [👤 Chi sono](https://lucacavallaro.it) · [💼 Portfolio](https://lucacavallaro.it) · [🧪 Esperienza](https://lucacavallaro.it) · [📬 Contatti](https://lucacavallaro.it)
-
-[🍪 Cookie Policy](https://lucacavallaro.it) · [🔒 Privacy Policy](https://lucacavallaro.it) · [📜 Termini di Servizio](https://lucacavallaro.it)
-
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=luke504&icon=0&color=0" alt="Visitors" />
-  </a>
-</p>
-
 <p align="center"><i>⭐️ Se ti piace quello che faccio, lasciami una stella sui miei repo! / If you like what I do, leave a star on my repos!</i></p>
 <p align="center">© 2026 Luca Cavallaro — Full Stack Developer</p>
